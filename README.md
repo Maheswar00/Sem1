@@ -1,4 +1,4 @@
-# Sem1
+# Data analysis and programming
 project on data-set visualization
 
 Hello!
